@@ -34,3 +34,4 @@ vignettes/*.pdf
 
 # Raw data 
 *.csv
+.Rproj.user
